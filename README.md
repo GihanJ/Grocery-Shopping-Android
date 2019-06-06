@@ -8,3 +8,4 @@ Customer Functions : Login,Logout,View Products by categories,Order products(Buy
 Sample Screenshots :
 
 ![Alt text](https://raw.github.com/GihanJ/Grocery-Shopping-Android/master/Sample%20Screenshots/Combined1.png)
+![Alt text](https://raw.github.com/GihanJ/Grocery-Shopping-Android/master/Sample%20Screenshots/Combined2.png)
