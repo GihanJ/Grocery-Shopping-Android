@@ -1,5 +1,6 @@
 # Grocery-Shopping-Android
 A simple grocery shopping android app created for a university project in Year 2
+
 Used Technologies : Java,SQLite,Android Studio
 
 Admin Functions : Login,Logout,Add products,Remove Products,Edit products,Edit profile
